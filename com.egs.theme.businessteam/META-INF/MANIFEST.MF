@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Theme Business Team
+Bundle-SymbolicName: com.egs.theme.businessteam
+Bundle-Version: 3.1.0.qualifier
+Bundle-Vendor: EGS GROUP
+Fragment-Host: org.adempiere.ui.zk;bundle-version="3.1.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Jetty-WarFragmentFolderPath: /
+Bundle-ClassPath: theme/,
+ .
